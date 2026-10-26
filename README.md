@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/bjBZm7yh/Git-Low-quality.png" alt="Git Low quality" border="0">
+<img src="https://i.ibb.co.com/bjBZm7yh/Git-Low-quality.png" alt="web design developer" border="0">
 
 <h3 align="center">I am a WordPress Designer & Developer specializing in Elementor Pro and WooCommerce, with over 5 years of experience building high-performing, conversion-focused websites.</h3>
 
