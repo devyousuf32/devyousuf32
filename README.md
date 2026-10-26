@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co.com/5xWDs5D4/High-quality.png" alt="High quality" border="0">
+<img src="https://i.ibb.co.com/bjBZm7yh/Git-Low-quality.png" alt="Git Low quality" border="0">
+
 <h3 align="center">I am a WordPress Designer & Developer specializing in Elementor Pro and WooCommerce, with over 5 years of experience building high-performing, conversion-focused websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devyousuf32&label=Profile%20views&color=0e75b6&style=flat" alt="devyousuf32" /> </p>
